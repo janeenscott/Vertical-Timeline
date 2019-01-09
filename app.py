@@ -15,3 +15,32 @@ def index():
 # toggle = request.args.get('right')
 #
 # if toggle = 'right'
+
+
+
+
+
+
+# txt "I like bananas"
+#
+# x = txt.replace("bananas", "apples")
+#
+# print(x)
+
+
+# Use replace principle to
+# pull an html class and switch
+# it with another html class
+# entry-box-b and entry-box-a
+# need to switch in html code (at refresh)
+# so that css properties will apply
+# to opposite boxes
+# this will appear to have the boxes
+# toggle or switch sides
+
+
+
+# my_html "entry-box-b"
+#
+# x = my_html.replace("entry-box-b", "entry-box-a")
+#
