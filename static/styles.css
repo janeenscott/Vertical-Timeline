@@ -22,6 +22,9 @@ div{
  /*position: relative;*/
 /*}*/
 
+img{
+ max-width: 100%;
+}
 
 .entry-box{
  position: relative;
