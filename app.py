@@ -42,5 +42,22 @@ def index():
 
 # my_html "entry-box-b"
 #
-# x = my_html.replace("entry-box-b", "entry-box-a")
+# new_html = my_html.replace("entry-box-b", "entry-box-a")
 #
+#
+# return new_html
+
+
+# After returning new_html, run the following:
+
+# if entry-box-b exists
+
+
+
+
+
+
+
+
+
+
