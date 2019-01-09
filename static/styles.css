@@ -1,0 +1,34 @@
+
+*{
+ box-sizing: border-box;
+}
+
+div{
+ display: inline-block;
+ border: aqua solid 1px;
+ /*position: absolute;*/
+ /*margin: auto;*/
+ max-width: 400px;
+}
+
+.vl{
+ border-left: 10px solid blue;
+ height: 800px;
+ margin-top: 50px;
+ display: inline-block;
+}
+
+/*.main-container{*/
+ /*position: relative;*/
+/*}*/
+
+
+.entry-box{
+ position: relative;
+}
+
+.entry-date-right{
+ display: inline-block;
+ /*position: absolute;*/
+ border: grey solid 2px;
+}
