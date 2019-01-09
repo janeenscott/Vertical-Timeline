@@ -26,8 +26,13 @@ img{
  max-width: 100%;
 }
 
-.entry-box{
+.entry-box-a{
  position: relative;
+ float: left;
+}
+.entry-box-b{
+ position: relative;
+ float: right;
 }
 
 .entry-date-right{
