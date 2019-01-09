@@ -38,6 +38,12 @@ def index():
 # this will appear to have the boxes
 # toggle or switch sides
 
+# Example of a key-value pair library
+#    (used in a query string)
+# {
+#   'action': 'click',
+#   'pgtype': 'Homepage'
+# }
 
 
 # my_html "entry-box-b"
