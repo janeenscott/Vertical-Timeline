@@ -58,12 +58,26 @@ def index():
 
 # if entry-box-b exists
 
+input = request.args.get('search-term')
+
+print(input)
+
+    # open file for reading, 'r'
+    # file is saved to variable
+index_file = open('index.html', 'r')
+    # read contents of the file
+my_html = index_file.read()
+
+
+if input:
+        # add use input back into the html
+        my_html = my_html.replace("{{search-term-value}}",input)
 
 
 
+#if search-term = flip
 
+#/?class_name = left
 
-
-
-
-
+my_class = requests.args.get(class_name)
+print(my_class)
